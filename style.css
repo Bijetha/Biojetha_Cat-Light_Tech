@@ -1,0 +1,45 @@
+.dark-background
+{
+    background-color:#0b0b0b;
+}
+.cat-image
+{
+    width:300px;
+}
+.bulb-image
+{
+    width:150px;
+}
+.switch-status
+{
+    font-size:26px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.switch-board
+{
+    background-color:#7b8794;
+    width:249px;
+    height:139px;
+    padding:30px;
+    margin:16px;
+    border-radius:12px;
+}
+.off-switch
+{
+    border-radius:8px;
+    padding:5px;
+    background-color:#e12d39;
+    color:#ffffff;
+    width:80px;
+    height:35px;
+}
+.on-switch
+{
+    border-radius:8px;
+    padding:5px;
+    width:80px;
+    height:35px;
+    background-color:#cbd2d9;
+    color:#ffffff;
+}
